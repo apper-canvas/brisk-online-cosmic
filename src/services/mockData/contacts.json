@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "name": "John Smith",
+    "company": "Acme Corporation",
+    "email": "john.smith@acme.com",
+    "phone": "(555) 123-4567",
+    "createdAt": "2024-01-15T08:30:00.000Z"
+  },
+  {
+    "Id": 2,
+    "name": "Sarah Johnson",
+    "company": "TechStart Inc",
+    "email": "sarah.johnson@techstart.com",
+    "phone": "(555) 234-5678",
+    "createdAt": "2024-01-18T10:15:00.000Z"
+  },
+  {
+    "Id": 3,
+    "name": "Mike Wilson",
+    "company": "Global Solutions",
+    "email": "mike.wilson@globalsol.com",
+    "phone": "(555) 345-6789",
+    "createdAt": "2024-01-22T14:20:00.000Z"
+  },
+  {
+    "Id": 4,
+    "name": "Emily Davis",
+    "company": "Creative Agency",
+    "email": "emily.davis@creative.com",
+    "phone": "(555) 456-7890",
+    "createdAt": "2024-01-25T11:45:00.000Z"
+  },
+  {
+    "Id": 5,
+    "name": "David Brown",
+    "company": "Innovate Ltd",
+    "email": "david.brown@innovate.com",
+    "phone": "(555) 567-8901",
+    "createdAt": "2024-01-28T16:30:00.000Z"
+  }
+]

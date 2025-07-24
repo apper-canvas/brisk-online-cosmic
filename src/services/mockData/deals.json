@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "name": "Enterprise Software License",
+    "value": 50000,
+    "stage": "proposal",
+    "contactId": 1,
+    "createdAt": "2024-01-16T09:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "name": "Website Redesign Project",
+    "value": 25000,
+    "stage": "negotiation",
+    "contactId": 2,
+    "createdAt": "2024-01-19T13:30:00.000Z"
+  },
+  {
+    "Id": 3,
+    "name": "Cloud Migration Services",
+    "value": 75000,
+    "stage": "qualified",
+    "contactId": 3,
+    "createdAt": "2024-01-23T10:00:00.000Z"
+  },
+  {
+    "Id": 4,
+    "name": "Marketing Campaign",
+    "value": 15000,
+    "stage": "closed-won",
+    "contactId": 4,
+    "createdAt": "2024-01-26T15:15:00.000Z"
+  },
+  {
+    "Id": 5,
+    "name": "Consulting Services",
+    "value": 35000,
+    "stage": "lead",
+    "contactId": 5,
+    "createdAt": "2024-01-29T12:00:00.000Z"
+  },
+  {
+    "Id": 6,
+    "name": "Mobile App Development",
+    "value": 120000,
+    "stage": "proposal",
+    "contactId": 1,
+    "createdAt": "2024-02-01T14:45:00.000Z"
+  }
+]
